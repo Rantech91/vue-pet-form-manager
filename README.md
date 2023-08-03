@@ -1,6 +1,8 @@
 # pet-administration-form-vue
 
-This template should help get you started developing with Vue 3 in Vite.
+Project for adding, editing and removing entries coming from a form in vuejs 3 with persistent data through LocalStorage.
+
+[Live preview](https://pet-form-managment-vue.netlify.app/)
 
 ## Recommended IDE Setup
 

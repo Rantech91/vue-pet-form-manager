@@ -83,7 +83,7 @@ const removePatient = (id) => {
         @save-patient="savePatient"
         :id="patient.id"
       ></Form>
-      />
+
       <div class="md:w-1/2 md:h-screen overflow-y-scroll">
         <h3 class="font-black text-3xl text-center">Manage your Patients</h3>
         <div v-if="patients.length > 0">
